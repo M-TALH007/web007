@@ -51,7 +51,7 @@ export class News extends Component {
   async componentDidMount() { 
     this.updateNews();
   }
-
+//my comment
   // handleNextClick = async () => {
   //   if (!(this.state.page + 1 > Math.ceil(this.state.totalResults / this.props.pageSize))) {
   //     console.log("NEXT");
