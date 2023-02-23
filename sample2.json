@@ -1,0 +1,267 @@
+
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": "Carrie Mihalcik",
+        "title": "Apple's iOS 15.6 on Your iPhone: Every Update to Know About - CNET",
+        "description": "If you've downloaded Apple's latest software, here's what's new on your iPhone.",
+        "url": "https://www.cnet.com/tech/services-and-software/apples-ios-15-6-on-your-iphone-every-update-to-know-about/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/7c46d71ffe55f793ba17c60e68581403a78de6dc/2020/03/02/ac5769d7-5d1b-412d-8643-04040901b4da/apple-iphone-11-0011.jpg?auto=webp&fit=crop&height=630&width=1200",
+        "publishedAt": "2022-08-01T04:00:06Z",
+        "content": "Apple's iOS 15.6 is here. Released on July 20, the follow-up to iOS 15.5 is ready to be downloaded to your iPhone. The software update folds in bug fixes -- including for an error that incorrectly sh… [+1534 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hollywood Reporter"
+        },
+        "author": "Kimberly Nordyke",
+        "title": "George Takei, J.J. Abrams, Stacey Abrams and More Pay Tribute to Nichelle Nichols: “Champion, Warrior and Tremendous Actor” - Hollywood Reporter",
+        "description": "Hollywood is mourning the death of Nichelle Nichols, who made history for her portrayal of communications officer Lieutenant Uhura on Star Trek. Nichols died Saturday of natural causes at age 89, her son, Kyle Johnson, posted on Facebook. “Her light however, …",
+        "url": "https://www.hollywoodreporter.com/tv/tv-news/nichelle-nichols-dead-star-trek-george-takei-tribute-1235189900/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2018/01/gettyimages-530800026_copy_-_h_2018.jpg?w=1024",
+        "publishedAt": "2022-08-01T02:03:58Z",
+        "content": "Hollywood is mourning the death of Nichelle Nichols, who made history for her portrayal of communications officer Lieutenant Uhura on Star Trek.\r\nNichols died Saturday of natural causes at age 89, he… [+6071 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Florida Today"
+        },
+        "author": "Emre Kelly, Florida Today",
+        "title": "NASA's Artemis I moon mission: Thousands expected to visit Florida - Florida Today",
+        "description": "Sold-out hotels. Excitement that seems to grow by the day. The potential for hundreds of thousands of visitors, support staff, and more.",
+        "url": "https://www.floridatoday.com/story/tech/science/space/2022/07/31/nasa-artemis-moon-launch-expected-draw-crowds-space-coast-florida/10175336002/",
+        "urlToImage": "https://www.gannett-cdn.com/presto/2022/03/17/PBRE/51ad0e4d-79d3-4bc8-8aab-e1b8d8ef9c25-crb031722_artemis_.jpg?auto=webp&crop=4084,2298,x0,y193&format=pjpg&width=1200",
+        "publishedAt": "2022-08-01T02:00:28Z",
+        "content": "Space is important to us and that’s why we're working to bring you top coverage of the industry and Florida launches. Journalism like this takes time and resources. Please support it with a subscript… [+7925 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Maria Sacchetti",
+        "title": "Kentucky flooding kills 28, as more rain and storms batter the region - The Washington Post",
+        "description": "Heavy rains are again battering eastern Kentucky, and more deaths are likely as rescuers go door-to-door in the Appalachian foothills to assess the damage.",
+        "url": "https://www.washingtonpost.com/nation/2022/07/31/kentucky-flood-climate/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GJ7MDCQRCII63BECA3A4QTHI6I.jpg&w=1440",
+        "publishedAt": "2022-08-01T01:57:34Z",
+        "content": "Comment on this story\r\nThe death toll from severe flooding in eastern Kentucky has risen to 28 people, including several children, and the governor said more fatalities are expected as search-and-res… [+3780 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "New York City declares monkeypox a public health emergency - ABC News",
+        "description": null,
+        "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9CnUIdKNcM4",
+        "urlToImage": null,
+        "publishedAt": "2022-08-01T01:52:24Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "bloomberg",
+          "name": "Bloomberg"
+        },
+        "author": null,
+        "title": "China's Rebound Remains Fragile as Manufacturing, Property Slump - Bloomberg",
+        "description": null,
+        "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=8d083e47-1145-11ed-b3b0-4679546b4541&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNy0zMS9jaGluYS1mYWN0b3J5LWFjdGl2aXR5LXNlZXMtc2hvY2stY29udHJhY3Rpb24tb24tY292aWQtb3V0YnJlYWtz",
+        "urlToImage": null,
+        "publishedAt": "2022-08-01T01:40:00Z",
+        "content": "To continue, please click the box below to let us know you're not a robot."
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Fox Business"
+        },
+        "author": "Adam Sabes",
+        "title": "Conservative groups slam President Biden for attempting to 'gaslight' Americans on recession - Fox Business",
+        "description": "Conservative groups are criticizing the President Biden as well as his administration for trying to redefine what a \"recession\" is after a weak GDP report.",
+        "url": "https://www.foxbusiness.com/politics/conservative-groups-slam-president-biden-attempting-gaslight-americans-recession",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/03/0/0/biden-e1615910292669.jpg?ve=1&tl=1",
+        "publishedAt": "2022-08-01T01:39:51Z",
+        "content": "Conservative groups are slamming President Biden and his administration for attempting to \"gaslight\" Americans into believing that the country isn't in a recession.\r\nThe country entered a technical r… [+3432 chars]"
+      },
+      {
+        "source": {
+          "id": "bloomberg",
+          "name": "Bloomberg"
+        },
+        "author": null,
+        "title": "Pelosi Starts Asia Trip in Singapore With No Mention of Taiwan - Bloomberg",
+        "description": null,
+        "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=8c9ece16-1145-11ed-9d63-4a496150674d&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNy0zMS9wZWxvc2ktcy1hc2lhLWl0aW5lcmFyeS1za2lwcy1tZW50aW9uLW9mLXRhaXdhbi1zdG9wb3Zlcg==",
+        "urlToImage": null,
+        "publishedAt": "2022-08-01T01:36:00Z",
+        "content": "To continue, please click the box below to let us know you're not a robot."
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "David Propper",
+        "title": "Data shows Schumer-Manchin deal raises taxes on earners under $400K, GOP says - New York Post ",
+        "description": "During the 10-year window, the average tax rate would go up for most income categories, the Senate GOP said.",
+        "url": "https://nypost.com/2022/07/31/senate-gop-argues-data-shows-schumer-manchin-deal-raises-taxes-on-earners-under-400k/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/07/newspress-collage-23277418-1659316746505.jpg?quality=75&strip=all&1659302409&w=1024",
+        "publishedAt": "2022-08-01T01:32:00Z",
+        "content": "The energy and healthcare deal from Sens. Joe Manchin and Chuck Schumer would raise taxes on millions of Americans earning less than $400,000 annually, Senate Republicans say, citing non-partisan dat… [+2709 chars]"
+      },
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": null,
+        "title": "Obama on Bill Russell: 'Today we lost a giant' - POLITICO",
+        "description": "The former president cited the basketball great as a leader on and off the court.",
+        "url": "https://www.politico.com/news/2022/07/31/bill-russell-barack-obama-obit-00048850",
+        "urlToImage": "https://static.politico.com/49/e2/015b57844a729614e0077e8e0a4a/https-delivery.gettyimages.com/downloads/109136573",
+        "publishedAt": "2022-08-01T01:22:29Z",
+        "content": "Russell was one of the towering figures in basketball history, leading the Boston Celtics to 11 NBA championships (two of them as a player-coach) in a span of 13 years, a level of success unmatched i… [+2273 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Akron Beacon Journal"
+        },
+        "author": "Chris Easterling, Akron Beacon Journal",
+        "title": "Deshaun Watson disciplinary case: Browns QB expected to learn decision - Akron Beacon Journal",
+        "description": "Cleveland Browns quarterback Deshaun Watson is expected to learn of the decision from disciplinary officer Sue L. Robinson on Monday.",
+        "url": "https://www.beaconjournal.com/story/sports/pro/browns/2022/07/31/deshaun-watson-expected-learn-decision-nfl-discipline-monday/10197812002/",
+        "urlToImage": "https://www.gannett-cdn.com/presto/2022/07/28/NABJ/c38fd670-f568-4371-8a7c-f3a839abaa0d-AKR_7-28_Browns_main_8.jpg?auto=webp&crop=3647,2052,x0,y0&format=pjpg&width=1200",
+        "publishedAt": "2022-08-01T00:56:15Z",
+        "content": "After weeks of waiting, multiple sources familiar with the situation Sunday indicated to the Beacon Journal a decision was expected from Sue L. Robinson on Monday in the NFL disciplinary case against… [+3681 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Ann E. Marimow, Laurie McGinley, Caroline Kitchener",
+        "title": "Major legal fights loom over abortion pills, travel out of state - The Washington Post",
+        "description": "The overturning of Roe v. Wade after nearly 50 years is expected to trigger a new set of legal challenges for which there is little precedent.",
+        "url": "https://www.washingtonpost.com/politics/2022/07/31/abortion-medication-lawsuits/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y5CREZSS2AI6ZA6S3HNLBYR3PY.jpg&w=1440",
+        "publishedAt": "2022-08-01T00:09:13Z",
+        "content": "Comment on this story\r\nThe Supreme Courts three liberal justices, in denouncing their colleagues decision to eliminate the nationwide right to abortion, warned last month that returning this polarizi… [+11539 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "Deebo Samuel, 49ers agree on a three-year, $71.55 million extension - CBS Sports",
+        "description": "The versatile wideout isn't leaving the Bay Area",
+        "url": "https://www.cbssports.com/nfl/news/deebo-samuel-49ers-agree-on-a-three-year-71-55-million-extension/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/04/20/582e9477-ed54-480e-ac5c-14211abee22b/thumbnail/1200x675/4c95c2c254ce544a7e735a7c0720bfb9/samuel.png",
+        "publishedAt": "2022-08-01T00:00:00Z",
+        "content": "There will be no in-season drama regarding Deebo Samuel and his contract. The All-Pro receiver and the 49ers have agreed to three-year, $71.55 million extension (that can reach up to $73.5 million) t… [+1668 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Kstp.com"
+        },
+        "author": null,
+        "title": "Campers witness the aftermath of Apple River stabbing - KSTP",
+        "description": "People on the Somerset campground by the Apple River where the stabbing took place said it was a fun, family weekend turned tragic.",
+        "url": "https://kstp.com/kstp-news/top-news/campers-witness-the-aftermath-of-apple-river-stabbing/",
+        "urlToImage": "https://kstp.com/wp-content/uploads/2022/07/00152I_MXF_02.11.57.00-e1659309522880.jpg",
+        "publishedAt": "2022-07-31T23:39:24Z",
+        "content": "Rivers Edge Apple River Campground is stopping tubing operations on Sunday, following a stabbing that left one teen dead and four injured this weekend.\r\nThe business posted on their Facebook page the… [+1981 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Daily Beast"
+        },
+        "author": "AJ McDougall",
+        "title": "Sly Stallone Blasts 'Rocky' Producer Irwin Winkler Over 'Drago' Spin-Off - The Daily Beast",
+        "description": "The actor accused Irwin Winkler and his sons of “once again picking clean THE BONES of another wonderful character I created without even telling me.”",
+        "url": "https://www.thedailybeast.com/sylvester-stallone-blasts-rocky-producer-irwin-winkler-over-drago-spin-off",
+        "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2686,w_4775,x_0,y_75/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1659301441/GettyImages-168582717_g5kcny",
+        "publishedAt": "2022-07-31T23:20:56Z",
+        "content": "Sylvester Stallone slammed Rocky producer Irwin Winkler over a spin-off based on series villain Drago this weekend, the second time in a month the actor has taken his former collaborator to task over… [+847 chars]"
+      },
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": null,
+        "title": "Biden experiences a Covid rebound after treatment with one course of Paxlovid - POLITICO",
+        "description": "Biden's new positive test is an example of a rebound Covid-19 case, a phenomenon that has happened in some cases after people take Paxlovid.",
+        "url": "https://www.politico.com/news/2022/07/30/biden-covid-rebound-paxlovid-00048349",
+        "urlToImage": "https://static.politico.com/22/26/69d3159748d683ef683dbc598106/gettyimages-1411483165.jpg",
+        "publishedAt": "2022-07-31T23:09:36Z",
+        "content": "Bidens new positive test is an example of a rebound Covid-19 case, a phenomenon that has happened in some cases after people take Paxlovid.\r\nBiden is isolating in the White House and has canceled his… [+2212 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "KCCI Des Moines"
+        },
+        "author": null,
+        "title": "Lottery officials say 5 Iowa tickets were a number off of Mega Millions jackpot - KCCI Des Moines",
+        "description": "Multiple Mega Millions tickets in Iowa were tantalizingly close to a gigantic payout, according to lottery officials.",
+        "url": "https://www.kcci.com/article/lottery-officials-say-5-iowa-tickets-were-a-number-off-of-mega-millions-jackpot/40764280",
+        "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/mega-millions-png-1659308832.png?crop=0.954xw:0.922xh;0.0196xw,0.0448xh&resize=1200:*",
+        "publishedAt": "2022-07-31T23:07:00Z",
+        "content": "DES MOINES, Iowa (KCRG) —Multiple Mega Millions tickets in Iowa were tantalizingly close to a gigantic payout, according to lottery officials.\r\nFive tickets were one number away from joining a ticket… [+743 chars]"
+      },
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "Ginger Adams Otis",
+        "title": "Raging Northern California Wildfire Prompts Evacuations, State of Emergency - The Wall Street Journal",
+        "description": "The National Weather Service issued so-called red flag warnings as the McKinney Fire raged near the California-Oregon border.",
+        "url": "https://www.wsj.com/articles/mckinney-fire-northern-california-wildfire-evacuations-11659289983",
+        "urlToImage": "https://images.wsj.net/im-594588/social",
+        "publishedAt": "2022-07-31T23:06:00Z",
+        "content": "A fast-moving wildfire in Northern California has scorched over 50,000 acres as of Sunday due to extreme heat and erratic winds, officials said.\r\nThe National Weather Service issued so-called red fla… [+239 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "ABC News",
+        "title": "Pat Carroll, Emmy winner and voice of Ursula, dies at 95 - ABC News",
+        "description": "Pat Carroll, a comedic television mainstay for decades, and the voice Ursula in “The Little Mermaid,” has died",
+        "url": "https://abcnews.go.com/Entertainment/wireStory/pat-carroll-emmy-winner-voice-ursula-dead-95-87722941",
+        "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_f375ef21dd924602bc8ab2c8f674931c_16x9_992.jpg",
+        "publishedAt": "2022-07-31T22:41:15Z",
+        "content": "Pat Carroll, a comedic television mainstay for decades, Emmy-winner for Caesars Hour and the voice Ursula in The Little Mermaid, has died. She was 95. \r\nHer daughter Kerry Karsian, a casting agent, s… [+2529 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "FIRST DRIVE: NEW Ferrari Daytona SP3 - £2m, 828bhp N/A V12 Hypercar | Top Gear - Top Gear",
+        "description": null,
+        "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDPdsWOLx_bo",
+        "urlToImage": null,
+        "publishedAt": "2022-07-31T22:00:10Z",
+        "content": null
+      }
+    ]
+  }
