@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Centered Table</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+  </head>
+
+  <body>
+    <script>
+      $.ajax({
+        url: "http://localhost:4000/api/products",
+        type: "GET",
+        dataType: "json",
+        crossDomain: true,
+        success: function (response) {
+          response.map((data) => {
+            $("table tr:last").after(`
+        <tr>
+        
+        <td>${data.tittle}</td>
+        <td>${data.content}</td>
+        <td>${data.description}</td>
+      </tr>
+      `);
+          });
+        },
+        error: function (error) {},
+      });
+
+    </script>
+
+<table class="table">
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">Tittle</th>
+          <th scope="col">content</th>
+          <th scope="col">description</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+  </body>
+</html>
