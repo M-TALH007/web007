@@ -1,0 +1,13 @@
+<div class="row">
+  <% bats.forEach(bat => { %>
+  <div class="card col-4 me-5 my-3" style="width: 18rem">
+    <img class="card-img-top" src="<%= bat.imgPath %>" alt="Card image cap" />
+    <div class="card-body">
+      <h5 class="card-title"><%= bat.name %></h5>
+      <p class="card-text"><%= bat.category %></p>
+      <a href="bat/cart/<%= bat._id %>" class="btn btn-primary">Purchase</a>
+    </div>
+  </div>
+
+  <% }) %>
+</div>

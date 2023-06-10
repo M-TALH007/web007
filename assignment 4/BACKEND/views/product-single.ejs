@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Product Details</title>
+    <!-- Include Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+  </head>
+  <body>
+    <%- include('./navbar') %>
+    <div class="container">
+      <h1>Product Details</h1>
+      <div class="card">
+        <img
+          src="<%= product.image %>"
+          class="card-img-top"
+          alt="Product Image"
+        />
+        <div class="card-body">
+          <h5 class="card-title"><%= product.name %></h5>
+          <p class="card-text"><%= product.description %></p>
+          <p class="card-text">Price: <%= product.price %></p>
+          <p class="card-text">Brand: <%= product.brand %></p>
+          <p class="card-text">Rating: <%= product.rating %></p>
+          <p class="card-text">Stock: <%= product.countInStock %></p>
+          <p class="card-text">Category: <%= product.category.name %></p>
+        </div>
+      </div>
+    </div>
+    <!-- Include Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  </body>
+</html>

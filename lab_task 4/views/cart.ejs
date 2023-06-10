@@ -1,0 +1,29 @@
+<table class="table">
+  <thead>
+    <tr>
+      Item
+    </tr>
+    <tr>
+      Price
+    </tr>
+  </thead>
+  <tbody>
+    <% bats.forEach(bat => { %>
+    <tr>
+      <td>
+        <a class="btn btn-danger" href="/bat/cart/remove/<%=bat._id  %>"
+          >Remove</a
+        >
+        <%= bat.name %>
+      </td>
+      <td><%= bat.price %></td>
+    </tr>
+    <% }) %>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td>Total</td>
+      <td><%= total %></td>
+    </tr>
+  </tfoot>
+</table>
